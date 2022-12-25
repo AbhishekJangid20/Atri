@@ -1,0 +1,48 @@
+.p-Home.Flex3 {
+display: flex;
+}
+.p-Home.TextBox11 {
+color: #000000;
+margin-right: ;
+margin-left: 80px;
+margin-top: 30px;
+outline-style: ;
+cursor: pointer;
+word-wrap: normal;
+text-align: left;
+font-size: 120%;
+outline-width: 1px;
+}
+.p-Home.TextBox12 {
+color: #ee0e0e;
+margin-left: 0px;
+margin-right: ;
+margin-top: 34px;
+}
+.p-Home.TextBox13 {
+margin-top: 33px;
+margin-left: 300px;
+}
+.p-Home.TextBox14 {
+margin-top: 34px;
+margin-left: 15px;
+}
+.p-Home.TextBox17 {
+margin-top: 34px;
+margin-left: 15px;
+}
+.p-Home.TextBox18 {
+margin-top: 34px;
+margin-left: 15px;
+}
+.p-Home.TextBox19 {
+margin-top: 34px;
+margin-left: 15px;
+}
+.p-Home.TextBox21 {
+margin-top: 33px;
+margin-left: 5px;
+cursor: pointer;
+float: right;
+clear: none;
+}

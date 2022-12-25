@@ -1,0 +1,38 @@
+{
+  "home": {
+    "name": "Home",
+    "route": "/"
+  },
+  "468cc316-2f37-4f23-81f1-cd0744142634": {
+    "name": "Services",
+    "route": "/Services"
+  },
+  "c8091acc-99e1-4ad6-a03a-cf670f5e432b": {
+    "name": "Projects",
+    "route": "/Projects"
+  },
+  "8e858eb4-10dd-4fa5-810d-6dff4bfa0618": {
+    "name": "Blogs",
+    "route": "/Blogs"
+  },
+  "1c1f3bdf-6c6b-4aca-80ce-971f2961019f": {
+    "name": "Product Designer",
+    "route": "/Product Designer"
+  },
+  "7510127f-61c4-4c9c-9e60-17e19165bfea": {
+    "name": "Product Designer 2",
+    "route": "/Product Designer 2"
+  },
+  "c1fa8316-3800-4721-b96b-318ceae7f67f": {
+    "name": "Testimonials",
+    "route": "/Testimonials"
+  },
+  "58e57c2c-fa02-413f-9e90-d6446a61e5f0": {
+    "name": "FAQ",
+    "route": "/FAQ"
+  },
+  "47d80d32-c86b-468d-9b75-36d8e9370e91": {
+    "name": "Last Paper",
+    "route": "/Last Paper"
+  }
+}

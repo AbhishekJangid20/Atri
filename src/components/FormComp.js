@@ -1,7 +1,8 @@
 import React,{useRef,useState} from "react";
 import Subscribed from "./Subscribed";
 import Axios from "axios";
-
+import EmailServer from "./email";
+// import Date;
 function FormComp() {
   const name = useRef(null);
   const email = useRef(null);
@@ -10,7 +11,8 @@ function FormComp() {
     pname: "",
     pemail: ""
   }); 
-
+  let currentTimeDate = new Date();
+  console.log(currentTimeDate.getHours());
 
   
   function clickHandler(event) {
@@ -23,7 +25,27 @@ function FormComp() {
     Axios.post("http://localhost:3001/database/insert",{pEmailID:email.current.value,pName:name.current.value}).then(()=>{
       alert("Subscribed successfully");
     });
+    Axios.get("http://localhost:3001/database/get")
+    .then(res=>{
+      console.log(res.data.length);
+      for(let i=0;i<res.data.length;i++){
+        // EmailServer.sendEmail(res.data[i].name,res.data[i].emailID);
+        console.log(res.data[i].emailID);
+      }
+    }).catch(err=>{
+      console.log("err");
+    });
+    // console.log(d.data);
+    // console.log(d);
+      // if(err){
+      //   alert("err");
+      // }
+      // else{
+      //   console.log(res);
+      //   alert(res);
+      // }
     
+    // Axios.get()
     //get input values from here
     // console.log(name.current.value);
     // console.log(email.current.value);
