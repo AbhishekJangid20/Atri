@@ -5089,5 +5089,38 @@
       }
     },
     "id": "07423593-812f-49ee-9636-4405595f0b77"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "slice": {
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    },
+    "id": "19da1f67-c2e3-41ff-9eaa-7bf7f7ef07a5"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "slice": {
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "navigate": {
+                "type": "internal",
+                "url": "/Product Designer 2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "19da1f67-c2e3-41ff-9eaa-7bf7f7ef07a5"
   }
 ]

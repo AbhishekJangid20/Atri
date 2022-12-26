@@ -43,6 +43,24 @@ const desktopModeProps = {
     "Flex3": {
       "callbacks": {}
     },
+    "Flex4": {
+      "callbacks": {}
+    },
+    "Flex5": {
+      "callbacks": {}
+    },
+    "Flex6": {
+      "callbacks": {}
+    },
+    "Flex7": {
+      "callbacks": {}
+    },
+    "Flex8": {
+      "callbacks": {}
+    },
+    "Flex9": {
+      "callbacks": {}
+    },
     "TextBox11": {
       "custom": {
         "text": "Portfolio Creator"
@@ -86,7 +104,10 @@ const desktopModeProps = {
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "internal",
+              "url": "/Services"
+            }
           }
         ]
       }
@@ -98,7 +119,10 @@ const desktopModeProps = {
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "internal",
+              "url": "/Projects"
+            }
           }
         ]
       }
@@ -110,7 +134,10 @@ const desktopModeProps = {
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "internal",
+              "url": "/Blogs"
+            }
           }
         ]
       }
@@ -122,7 +149,10 @@ const desktopModeProps = {
       "callbacks": {
         "onClick": [
           {
-            "sendEventData": true
+            "navigate": {
+              "type": "internal",
+              "url": "/Last Paper"
+            }
           }
         ]
       }
@@ -130,6 +160,202 @@ const desktopModeProps = {
     "TextBox21": {
       "custom": {
         "text": "-->"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image6": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/60ad1c2b0e1d633fc7ef2e69_Group%20160-min-p-1080.jpeg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox30": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image8": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Screenshot%202022-12-25%20at%201.51.33%20PM.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox32": {
+      "custom": {
+        "text": "Hi! I’m Jake, a product designer based in Berlin. I create user-friendly interfaces for fast-growing startups."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button3": {
+      "custom": {
+        "text": "Book a call"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox33": {
+      "custom": {
+        "text": "Download CV ->"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox34": {
+      "custom": {
+        "text": "Trusted by"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image9": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Screenshot%202022-12-25%20at%202.05.24%20PM.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image11": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Screenshot%202022-12-25%20at%202.05.31%20PM.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image12": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Screenshot%202022-12-25%20at%202.05.36%20PM.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image13": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Screenshot%202022-12-25%20at%202.05.42%20PM.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    }
+  },
+  "FAQ": {
+    "Div13": {
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Last Paper"
+            }
+          }
+        ]
+      }
+    },
+    "Flex110": {
+      "callbacks": {}
+    },
+    "Image74": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Screenshot%202022-12-26%20at%2012.33.35%20AM.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image75": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Screenshot%202022-12-26%20at%2012.43.13%20AM.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "navigate": {
+              "type": "internal",
+              "url": "/Last Paper"
+            }
+          }
+        ]
+      }
+    },
+    "TextBox152": {
+      "custom": {
+        "text": "Frequently asked questions"
       },
       "callbacks": {
         "onClick": [

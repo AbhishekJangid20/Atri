@@ -1,0 +1,140 @@
+.p-Blogs.Div12 {
+width: 100%;
+height: 110%;
+color: #040303;
+background-color: #000000;
+overflow: auto;
+box-sizing: initial;
+align-self: flex-start;
+display: block;
+padding-top: ;
+margin-top: ;
+margin-bottom: ;
+}
+.p-Blogs.Flex48 {
+display: flex;
+}
+.p-Blogs.Flex49 {
+display: flex;
+flex-direction: column;
+margin-left: 120px;
+}
+.p-Blogs.Flex50 {
+display: flex;
+flex-direction: column;
+margin-left: 250px;
+margin-top: 30px;
+}
+.p-Blogs.Flex53 {
+display: flex;
+}
+.p-Blogs.Flex54 {
+display: flex;
+margin-top: 30px;
+/* column-gap: {"type":"template","template":[{"type":"CREATE$$@atrilabs/app-design-forest/lib/cssTree.js","id":"67feceb6-6b6d-42e4-bc99-44ca7aa0063c","meta":{},"state":{"parent":{"id":"","index":0},"property":{"styles":{"fontFamily":"IBM Plex Sans","fontWeight":"normal","backgroundColor":"#000000","color":"#acabab","marginTop":"20px"}}}},{"type":"LINK$$@atrilabs/app-design-forest/lib/cssTree.js","refId":"0a43255c-075c-4b06-92b6-bd9ac4adf4c0","childId":"67feceb6-6b6d-42e4-bc99-44ca7aa0063c"},{"type":"CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js","id":"acffb4a4-763f-494a-bb72-8cacab7c3c11","meta":{},"state":{"parent":{"id":"","index":0},"property":{"custom":{"text":"April 16, 2021 .6 mins"}}}},{"type":"LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js","refId":"0a43255c-075c-4b06-92b6-bd9ac4adf4c0","childId":"acffb4a4-763f-494a-bb72-8cacab7c3c11"},{"id":"b63df1ba-007a-4af6-99d7-412dd3c7eec7","type":"CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js","meta":{},"state":{"parent":{"id":"","index":0},"property":{"callbacks":{"onClick":[{"sendEventData":true}]}}}},{"type":"LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js","refId":"0a43255c-075c-4b06-92b6-bd9ac4adf4c0","childId":"b63df1ba-007a-4af6-99d7-412dd3c7eec7"},{"id":"0a43255c-075c-4b06-92b6-bd9ac4adf4c0","type":"CREATE$$@atrilabs/app-design-forest/lib/componentTree.js","meta":{"pkg":"@atrilabs/react-component-manifests","key":"TextBox","manifestSchemaId":"@atrilabs/react-component-manifest-schema"},"state":{"parent":{"id":"templateRoot","index":0},"alias":"TextBox99"}}],"copiedId":"0a43255c-075c-4b06-92b6-bd9ac4adf4c0"}px; */
+flex-direction: column;
+}
+.p-Blogs.Flex57 {
+display: flex;
+margin-top: 50px;
+flex-direction: column;
+}
+.p-Blogs.Flex58 {
+display: flex;
+flex-direction: column;
+margin-top: 50px;
+}
+.p-Blogs.Image52 {
+width: 90px;
+margin-top: 20px;
+margin-left: 40px;
+}
+.p-Blogs.TextBox97 {
+color: #ffffff;
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 50px;
+margin-left: 45px;
+margin-top: 10px;
+}
+.p-Blogs.TextBox98 {
+color: #ffffff;
+font-family: IBM Plex Sans;
+font-weight: 400;
+margin-left: 49px;
+margin-top: 20px;
+}
+.p-Blogs.TextBox100 {
+font-family: IBM Plex Sans;
+font-weight: 600;
+color: #ffffff;
+font-size: 25px;
+width: 450px;
+margin-top: 10px;
+}
+.p-Blogs.TextBox101 {
+color: #ffffff;
+margin-top: 25px;
+}
+.p-Blogs.TextBox99 {
+font-family: IBM Plex Sans;
+font-weight: normal;
+background-color: #000000;
+color: #acabab;
+margin-top: 20px;
+}
+.p-Blogs.TextBox104 {
+color: #acabab;
+margin-top: 30px;
+}
+.p-Blogs.TextBox105 {
+color: #ffffff;
+font-family: IBM Plex Sans;
+font-weight: 600;
+font-size: 25px;
+width: 450px;
+margin-top: 10px;
+}
+.p-Blogs.TextBox106 {
+font-family: IBM Plex Sans;
+color: #ffffff;
+margin-top: 25px;
+}
+.p-Blogs.TextBox113 {
+color: #acabab;
+font-family: IBM Plex Sans;
+margin-top: 15px;
+}
+.p-Blogs.TextBox114 {
+color: #ffffff;
+font-family: IBM Plex Sans;
+margin-top: 25px;
+}
+.p-Blogs.TextBox115 {
+color: #ffffff;
+font-family: IBM Plex Sans;
+font-weight: 500;
+font-size: 25px;
+width: 450px;
+margin-top: 10px;
+}
+.p-Blogs.TextBox116 {
+font-family: IBM Plex Sans;
+font-weight: 400;
+color: #ffffff;
+margin-top: 25px;
+}
+.p-Blogs.TextBox118 {
+color: #acabab;
+font-family: IBM Plex Sans;
+font-weight: 400;
+margin-top: 15px;
+}
+.p-Blogs.TextBox119 {
+color: #ffffff;
+font-family: IBM Plex Sans;
+font-weight: 600;
+font-size: 25px;
+margin-top: 10px;
+width: 450px;
+}

@@ -18658,5 +18658,38 @@
   {
     "type": "DELETE$$@atrilabs/app-design-forest/lib/componentTree.js",
     "id": "112263fc-f02c-415d-8c66-ba9c4268b4a5"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "slice": {
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    },
+    "id": "eabdd22c-6c81-4346-b549-809ea639a424"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "slice": {
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "navigate": {
+                "type": "internal",
+                "url": "/Testimonials"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "id": "eabdd22c-6c81-4346-b549-809ea639a424"
   }
 ]

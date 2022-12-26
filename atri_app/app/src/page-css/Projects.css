@@ -1,0 +1,132 @@
+.p-Projects.Flex19 {
+display: flex;
+flex-direction: column;
+margin-left: 12.8%;
+}
+.p-Projects.Flex21 {
+display: flex;
+margin-left: 13%;
+}
+.p-Projects.Flex22 {
+display: flex;
+flex-direction: column;
+}
+.p-Projects.Flex35 {
+display: flex;
+flex-direction: column;
+}
+.p-Projects.Flex36 {
+display: flex;
+flex-direction: row;
+margin-left: 100px;
+}
+.p-Projects.Div11 {
+background-color: #000000;
+height: 300px;
+margin-top: 10px;
+}
+.p-Projects.Flex45 {
+display: flex;
+}
+.p-Projects.Flex46 {
+display: flex;
+flex-direction: column;
+margin-left: 192px;
+background-color: #ffffff;
+width: 448.8px;
+height: 150px;
+padding-left: ;
+margin-right: ;
+}
+.p-Projects.Flex47 {
+display: flex;
+flex-direction: column;
+margin-left: 50px;
+width: 448.8px;
+background-color: #ffffff;
+}
+.p-Projects.Carousel3 {
+width: 80px;
+height: 90px;
+}
+.p-Projects.Image24 {
+width: 130px;
+margin-top: 50px;
+}
+.p-Projects.Button4 {
+color: #fff;
+background-color: #000000;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 25px;
+border-radius: 2px;
+outline: none;
+font-weight: 500;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #000000;
+cursor: pointer;
+user-select: none;
+margin-left: 400px;
+width: 200px;
+height: 50px;
+font-family: IBM Plex Sans;
+margin-top: 20px;
+}
+.p-Projects.TextBox71 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 50px;
+}
+.p-Projects.TextBox74 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 50px;
+}
+.p-Projects.Image47 {
+width: 450px;
+height: ;
+margin-left: 90px;
+}
+.p-Projects.Image49 {
+width: 450px;
+height: ;
+margin-left: 50px;
+}
+.p-Projects.TextBox93 {
+margin-left: 28px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 20px;
+margin-top: 15px;
+}
+.p-Projects.Image50 {
+width: 110px;
+margin-left: 20px;
+margin-top: 15px;
+}
+.p-Projects.TextBox95 {
+margin-left: 30px;
+margin-top: 15px;
+font-family: IBM Plex Sans;
+}
+.p-Projects.TextBox94 {
+margin-left: 20px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 20px;
+margin-top: 15px;
+}
+.p-Projects.Image51 {
+width: 170px;
+margin-left: 20px;
+margin-top: 20px;
+}
+.p-Projects.TextBox96 {
+margin-left: 20px;
+font-family: IBM Plex Sans;
+margin-top: 15px;
+}

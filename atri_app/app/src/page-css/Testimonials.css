@@ -1,0 +1,46 @@
+.p-Testimonials.Flex106 {
+display: flex;
+flex-direction: column;
+margin-top: 40px;
+}
+.p-Testimonials.Flex107 {
+display: flex;
+}
+.p-Testimonials.Flex108 {
+display: flex;
+}
+.p-Testimonials.Flex109 {
+display: flex;
+flex-direction: column;
+}
+.p-Testimonials.TextBox148 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 45px;
+margin-left: 140px;
+}
+.p-Testimonials.Image70 {
+height: ;
+width: 200px;
+margin-left: 140px;
+margin-top: 30px;
+}
+.p-Testimonials.Image73 {
+width: 380px;
+margin-left: 150px;
+margin-top: 70px;
+}
+.p-Testimonials.Image72 {
+width: 550px;
+margin-left: 100px;
+margin-top: 80px;
+}
+.p-Testimonials.TextBox149 {
+font-family: IBM Plex Sans;
+font-weight: 600;
+margin-left: 100px;
+margin-top: 50px;
+}
+.p-Testimonials.TextBox150 {
+margin-left: 100px;
+}
